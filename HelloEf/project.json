@@ -1,0 +1,34 @@
+{
+    "version": "1.0.0-*",
+    "compilationOptions": {
+        "emitEntryPoint": true,
+        "debugType": "portable"
+    },
+  "dependencies": {
+    "Microsoft.AspNetCore.Server.Kestrel": "1.0.0-*",
+    "Microsoft.Extensions.Logging.Console": "1.0.0-*",
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.0.0-*",
+    "Microsoft.EntityFrameworkCore.Tools": {
+      "version": "1.0.0-*",
+      "type": "build"
+    },
+    "Microsoft.NETCore.App": {
+      "version": "1.0.0-*",
+      "type": "platform"
+    }
+  },
+    "frameworks": {
+        "netcoreapp1.0":{
+            "imports": [
+                "portable-net45+wp80+win8+wpa81+dnxcore50",
+                "portable-net451+win8"
+            ]
+        }
+    },
+    "tools": {
+        "Microsoft.EntityFrameworkCore.Tools": {
+            "version": "1.0.0-*",
+            "imports": "portable-net451+win8"
+        }
+    }
+}
