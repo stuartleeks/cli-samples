@@ -1,5 +1,5 @@
-﻿HelloEf
--------
+﻿HelloEFCore
+-----------
 
 For more information, see Entity Framework Core's documentation (https://docs.efproject.net).
 
@@ -13,7 +13,7 @@ Run `dotnet ef --help` in the project directory to see what options are availabl
 
 To drop the database:
 ```
-C:\cli-samples\HelloEf> dotnet ef database drop
+C:\cli-samples\HelloEFCore> dotnet ef database drop
 
 Are you sure you want to drop the database 'main' on server './hello.db'? (y/N)
 

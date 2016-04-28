@@ -1,7 +1,7 @@
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
-namespace HelloEf
+namespace HelloEFCore
 {
     public class Program
     {

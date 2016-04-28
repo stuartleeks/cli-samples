@@ -11,7 +11,7 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloWebFull", "HelloWebFul
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloMvc", "HelloMvc\HelloMvc.xproj", "{E5BDE977-3F5C-4310-8A23-B5694A869C88}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloEf", "HelloEf\HelloEf.xproj", "{B9C0F9CF-0D4B-421A-BFCA-323F4CB0DF0A}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloEFCore", "HelloEFCore\HelloEFCore.xproj", "{B9C0F9CF-0D4B-421A-BFCA-323F4CB0DF0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
